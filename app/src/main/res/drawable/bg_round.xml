@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+	<corners android:radius="@dimen/c_button_round_radius"/>
+	<padding android:left="@dimen/c_button_round_padding" android:right="@dimen/c_button_round_padding" android:top="@dimen/c_button_round_padding" android:bottom="@dimen/c_button_round_padding"/>
+	<solid 
+	    android:color="@color/grey_50"/>
+</shape>

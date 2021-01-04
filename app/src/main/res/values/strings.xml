@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tap to restart</string>
+
+    <string name="nav_home">홈</string>
+    <string name="nav_share">공유</string>
+    <string name="c_cancel">취소</string>
+    <string name="c_ok">확인</string>
+    <string name="search">검색</string>
+
+    <string name="settings">설정</string>
+    <string name="noti">새 글 알림</string>
+    <string name="noti_desc">새 글이 발행되었습니다.</string>
+    <string name="review">앱 별점 달기</string>
+    <string name="open_source_license">오픈 소스 라이센스</string><!--오픈 소스-->
+</resources>

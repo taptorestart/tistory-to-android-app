@@ -1,0 +1,18 @@
+<resources>
+
+    <dimen name="c_lay_padding">5dp</dimen>
+    <dimen name="c_lay_padding_more">12dp</dimen>
+    <dimen name="c_padding">3dp</dimen>
+    <dimen name="c_padding_more">5dp</dimen>
+    <dimen name="c_button_size">40dp</dimen>
+    <dimen name="c_button_radius">20dp</dimen>
+    <dimen name="c_button_round_radius">4dp</dimen>
+    <dimen name="c_button_round_padding">2dp</dimen>
+    <dimen name="c_popup_min_width">300dp</dimen>
+    <dimen name="c_popup_padding">10dp</dimen>
+    <dimen name="c_btn_cancel_ok">13sp</dimen>
+    <dimen name="c_edt">20sp</dimen>
+    <dimen name="c_txt_title">23sp</dimen>
+
+    <dimen name="txt_noti">18sp</dimen>
+</resources>

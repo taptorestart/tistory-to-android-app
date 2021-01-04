@@ -1,0 +1,60 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="c_txt_title">
+        <item name="android:textSize">@dimen/c_txt_title</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:padding">@dimen/c_padding</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+    <style name="c_edt">
+        <item name="android:textSize">@dimen/c_edt</item>
+        <item name="android:textColor">@color/grey_800</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:textColorHint">@color/grey_400</item>
+        <item name="android:textColorHighlight">@color/grey_600</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:backgroundTint">@color/grey_300</item>
+        <!--<item name="android:background">@color/transparent</item>-->
+    </style>
+    <style name="c_btn_focus">
+        <item name="android:textSize">@dimen/c_btn_cancel_ok</item>
+        <item name="android:textColor">@color/btn_text_colored</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:padding">@dimen/c_padding</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="c_btn_normal">
+        <item name="android:textSize">@dimen/c_btn_cancel_ok</item>
+        <item name="android:textColor">@color/btn_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:padding">@dimen/c_padding</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="txt_noti">
+        <item name="android:textSize">@dimen/txt_noti</item>
+        <item name="android:textColor">@color/grey_50</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:lines">2</item>
+        <item name="android:lineSpacingMultiplier">1.05</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@color/transparent</item>
+    </style>
+
+</resources>
